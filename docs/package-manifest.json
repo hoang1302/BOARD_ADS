@@ -1,0 +1,59 @@
+{
+  "package_date": "2026-10-15",
+  "project": "BOARD_ADS",
+  "status": "Prototype; physical verification not recorded",
+  "schematic_components": 48,
+  "pcb_components": 48,
+  "missing_schematic_footprints_in_packaged_library": [
+    "XH2.54M-3"
+  ],
+  "missing_pcb_footprints_in_packaged_library": [
+    "XH2.54M-3"
+  ],
+  "files": [
+    {
+      "file": "hardware/altium/BOARD_ADS.SchDoc",
+      "source_file": "BOARD_ADS.SchDoc",
+      "sha256": "cc41662ba3fc2e8f739806383e12d8dec8eb4b6b61dd0a195a94013ba8109bd2",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/altium/BOARD_ADS.PcbDoc",
+      "source_file": "BOARD_ADS.PcbDoc",
+      "sha256": "3a5bebbbd668b33d281be8b75c1d6906efddf4a84d3a99caabf7a917f26c4fcc",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/altium/BOARD_ADS.SchLib",
+      "source_file": "BOARD_ADS.SchLib",
+      "sha256": "a1a336591950eedad2b72fd05802d2029984ccb560d888df9a2d86a95312a70a",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/altium/BOARD_ADS.PcbLib",
+      "source_file": "BOARD_ADS.PcbLib",
+      "sha256": "65d14cef458404b73fc98cbc60902444ea6bfbb1c68266516965b915bd7069e9",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/altium/PCB1.PcbDoc",
+      "source_file": "PCB1.PcbDoc",
+      "sha256": "c1fec822015cbba4ac674bfdc84705510667ba0f06ef10a8add42a7b19e37ede",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/altium/BOARD_ADS.PrjPcb",
+      "source_file": "BOARD_ADS.PrjPcb",
+      "sha256": "4fd6695cc97462d5946fdb2d220623516511a1e437d2e0d9cc0899b2b9163763",
+      "source_sha256": "0d881e2a7db590a98850e6cc48b1b8db319f03a62d3ba40db89fcc2dd999e0c0",
+      "content": "packaging-only reference cleanup"
+    },
+    {
+      "file": "hardware/schematic/BOARD_ADS_Schematic.pdf",
+      "source_file": "boad_ads.pdf",
+      "sha256": "fc36424174945e60ddb4d2d6692936774e387b5b4b19d7c52a303264b189edd1",
+      "content": "unchanged; renamed for packaging"
+    }
+  ],
+  "verification": "File integrity, document references and footprint-name availability only. No Altium compile/ERC/DRC or physical validation performed."
+}
