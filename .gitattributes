@@ -5,3 +5,12 @@
 hardware/altium/** -text
 *.pdf binary
 *.png binary
+
+# Preserve every revision of Altium binary documents
+*.PcbDoc binary
+*.SchDoc binary
+*.PcbLib binary
+*.SchLib binary
+*.PrjPcb -text whitespace=cr-at-eol
+*.zip binary
+*.csv text eol=lf

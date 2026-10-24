@@ -1,0 +1,150 @@
+{
+  "package_date": "2026-10-25",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "project": "BOARD_ADS V2.0",
+  "status": "Source snapshot; historical outputs not verified against current source",
+  "schematic_components": 49,
+  "pcb_components": 49,
+  "files": [
+    {
+      "file": "hardware/v2.0/altium/BOARD_ADS _V2.0 (1).PrjPcb",
+      "source_name": "BOARD_ADS _V2.0 (1).PrjPcb",
+      "source_modified": "2026-10-22T16:19:43+07:00",
+      "source_sha256": "a39200c9052ff8c98b07c4d2edfb684b4a8542325b78246e6d78e071d7b758ac",
+      "sha256": "beb9269590a160faf5ec2fde8cd6d2c813f45235c1ba6c8790ac75d9214f7a03",
+      "bytes": 40640,
+      "role": "current source",
+      "content": "packaged project: removed GeneratedDocument sections; added relative connector library references"
+    },
+    {
+      "file": "hardware/v2.0/altium/BOARD_ADS _V2.0 (1).SchDoc",
+      "source_name": "BOARD_ADS _V2.0 (1).SchDoc",
+      "source_modified": "2026-10-25T00:50:20+07:00",
+      "source_sha256": "3e72e8d722b5e769cb212c1cbcb356aa2634e58df79499eb856c5cac8cfbbb04",
+      "sha256": "3e72e8d722b5e769cb212c1cbcb356aa2634e58df79499eb856c5cac8cfbbb04",
+      "bytes": 245760,
+      "role": "current source",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/v2.0/altium/BOARD_ADS _V2.0 (3).PcbDoc",
+      "source_name": "BOARD_ADS _V2.0 (3).PcbDoc",
+      "source_modified": "2026-10-25T00:50:21+07:00",
+      "source_sha256": "d9f0e65410cf28c3d790a0fb8b2e33ad6a8dcac1b0a53d2bd9bd40f112a2892b",
+      "sha256": "d9f0e65410cf28c3d790a0fb8b2e33ad6a8dcac1b0a53d2bd9bd40f112a2892b",
+      "bytes": 9539584,
+      "role": "current source",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/v2.0/altium/BOARD_ADS _V2.0 (1).SchLib",
+      "source_name": "BOARD_ADS _V2.0 (1).SchLib",
+      "source_modified": "2026-10-25T00:50:20+07:00",
+      "source_sha256": "5006875e12eaaedbd629bd1e88fdcd438632d68ef527b93980c8272736c5f526",
+      "sha256": "5006875e12eaaedbd629bd1e88fdcd438632d68ef527b93980c8272736c5f526",
+      "bytes": 33792,
+      "role": "current source",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/v2.0/altium/BOARD_ADS _V2.0 (1).PcbLib",
+      "source_name": "BOARD_ADS _V2.0 (1).PcbLib",
+      "source_modified": "2026-10-25T00:50:19+07:00",
+      "source_sha256": "a79717eb79254cb8d2117c803faba755c4e2e9039da81a535b2db4808b27b89a",
+      "sha256": "a79717eb79254cb8d2117c803faba755c4e2e9039da81a535b2db4808b27b89a",
+      "bytes": 8159744,
+      "role": "current source",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/v2.0/altium/libraries/Header.SchLib",
+      "source_name": "Header.SchLib",
+      "source_modified": "2026-10-14T13:32:39+07:00",
+      "source_sha256": "73e632063c2433a490126360348c98ba2fe24ea7ab455694f9a510eb8734b8c4",
+      "sha256": "73e632063c2433a490126360348c98ba2fe24ea7ab455694f9a510eb8734b8c4",
+      "bytes": 76288,
+      "role": "connector source library",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/v2.0/altium/libraries/Header.PcbLib",
+      "source_name": "Header.PcbLib",
+      "source_modified": "2026-10-14T13:32:39+07:00",
+      "source_sha256": "af28d8644035643f265a573ee3182962184d5f8c7bae602669da4b09100e3edd",
+      "sha256": "af28d8644035643f265a573ee3182962184d5f8c7bae602669da4b09100e3edd",
+      "bytes": 2171904,
+      "role": "connector source library",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/v2.0/manufacturing/archive-2026-10-22/BOARD_ADS_V2.0_GERBER_2026-10-22_UNVERIFIED.zip",
+      "source_name": "BOARD_ADS _V2.0_GERBER.zip",
+      "source_modified": "2026-10-22T16:02:15+07:00",
+      "source_sha256": "3b2cc4c9612c378d3b60a70b17d4e2a07d0f7d14ce35f7c041dbeb518b71e6ea",
+      "sha256": "3b2cc4c9612c378d3b60a70b17d4e2a07d0f7d14ce35f7c041dbeb518b71e6ea",
+      "bytes": 158226,
+      "role": "historical manufacturing output; not verified against current source",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/v2.0/docs/archive-2026-10-19/BOARD_ADS_V2.0_Schematic_2026-10-19.pdf",
+      "source_name": "BOARD_ADS _V2.0 (1).pdf",
+      "source_modified": "2026-10-19T14:11:40+07:00",
+      "source_sha256": "58345c5b118af9727b0047fc3d5c0e646b7e9446f2e9c1aaf7f3f1765258fefe",
+      "sha256": "58345c5b118af9727b0047fc3d5c0e646b7e9446f2e9c1aaf7f3f1765258fefe",
+      "bytes": 127070,
+      "role": "historical schematic PDF",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/v2.0/docs/images/2026-10-19_2d.png",
+      "source_name": "2d.png",
+      "source_modified": "2026-10-19T14:13:36+07:00",
+      "source_sha256": "1c66f36ef34476714356badaa0eb91888bb94531c19cc4c0cba590d12fd38d84",
+      "sha256": "1c66f36ef34476714356badaa0eb91888bb94531c19cc4c0cba590d12fd38d84",
+      "bytes": 120991,
+      "role": "historical preview; not a current PCB rendering",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/v2.0/docs/images/2026-10-19_3d_bottom.png",
+      "source_name": "3d_bottom.png",
+      "source_modified": "2026-10-19T14:13:04+07:00",
+      "source_sha256": "b9ed72e2901341f637702bcc6fd1666c8aa0243979210d807eff1339f9ed8f5c",
+      "sha256": "b9ed72e2901341f637702bcc6fd1666c8aa0243979210d807eff1339f9ed8f5c",
+      "bytes": 143159,
+      "role": "historical preview; not a current PCB rendering",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/v2.0/docs/images/2026-10-19_3d_top.png",
+      "source_name": "3d_top.png",
+      "source_modified": "2026-10-19T14:12:37+07:00",
+      "source_sha256": "4bdc7046f73dc18988f1b0a326da143134c1f76fdc71dde8ec2b05456a19944c",
+      "sha256": "4bdc7046f73dc18988f1b0a326da143134c1f76fdc71dde8ec2b05456a19944c",
+      "bytes": 175338,
+      "role": "historical preview; not a current PCB rendering",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/v2.0/docs/images/2026-10-22_3D_with_nRF.png",
+      "source_name": "3D_with_nRF.png",
+      "source_modified": "2026-10-22T09:21:44+07:00",
+      "source_sha256": "f59ecb99b76eac63627528a6ee9f33d87a32fd40d241e7c6a2e6861e4617d92f",
+      "sha256": "f59ecb99b76eac63627528a6ee9f33d87a32fd40d241e7c6a2e6861e4617d92f",
+      "bytes": 231966,
+      "role": "historical preview; not a current PCB rendering",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/v2.0/docs/images/2026-10-19_Schematic.png",
+      "source_name": "Schematic.png",
+      "source_modified": "2026-10-19T14:14:07+07:00",
+      "source_sha256": "5ad1dfd2229fc3aba7a380ec891b115736af125312199c1d0c0705c67f3f9eb7",
+      "sha256": "5ad1dfd2229fc3aba7a380ec891b115736af125312199c1d0c0705c67f3f9eb7",
+      "bytes": 130377,
+      "role": "historical preview; not a current PCB rendering",
+      "content": "unchanged"
+    }
+  ]
+}
