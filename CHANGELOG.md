@@ -1,0 +1,18 @@
+# Lịch sử thay đổi
+
+## Hardware V2.0 — 25/10/2026
+
+- Thêm snapshot nguồn V2 tại `hardware/v2.0/`, giữ nguyên nguồn V1 và lịch sử Git.
+- Bản đã lưu có 49 linh kiện schematic và 49 linh kiện PCB; V1 có 48 / 48. Đây là số linh kiện được đặt, không phải xác nhận hoạt động điện.
+- Designator mới so với V1: H5, H6, H7, H8, H9, H10, H11, H12, TP1, TP2, TP3, TP4, TP5.
+- Designator không còn trong snapshot V2 so với V1: C17, C18, C19, C20, J1, J2, J3, J4, J5, J6, J7, J8. Đây là thay đổi tên/tập linh kiện, không tự kết luận thay đổi chức năng tương ứng.
+- Thêm vị trí module nRF qua H3/H5, cùng vị trí ESP32 và ADS1299. Cấu hình sử dụng: chỉ cắm ESP32 hoặc nRF tại một thời điểm.
+- Connector H6–H12 đang dùng footprint PCB `XH2.54M-2`; bổ sung thư viện Header nguồn để đóng gói đủ các tên symbol/footprint đang sử dụng.
+- Thêm BOM tham khảo, pinout đọc từ PCB, manifest SHA-256 và trạng thái kiểm tra riêng cho V2.
+- Giữ PDF/ảnh ngày 19–22/10 và Gerber ngày 22/10 trong tài liệu lịch sử/archive. Cần xuất lại hoặc xác nhận đầu ra khớp source ngày 25/10 trước khi dùng để chế tạo.
+- Chưa bổ sung firmware hoặc kết quả đo board thật trong lần cập nhật này.
+
+## V1 — 15/10/2026
+
+- Bản prototype đầu tiên trên repository: project Altium, thư viện và tài liệu tiếng Việt.
+- Nguồn và ghi chú V1 được giữ nguyên; xem `docs/README_V1.md`.

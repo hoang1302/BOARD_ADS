@@ -1,0 +1,1182 @@
+{
+  "date": "2026-10-25",
+  "method": "Read-only extraction of saved Altium OLE records; not an ERC/DRC result",
+  "schematic_components": 49,
+  "pcb_components": 49,
+  "components": [
+    {
+      "designator": "C1",
+      "value": "1uF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0805L"
+      ],
+      "pcb_footprint": "C0805L"
+    },
+    {
+      "designator": "C2",
+      "value": "4.7uF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0805L"
+      ],
+      "pcb_footprint": "C0805L"
+    },
+    {
+      "designator": "C3",
+      "value": "1uF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0805L"
+      ],
+      "pcb_footprint": "C0805L"
+    },
+    {
+      "designator": "C4",
+      "value": "10nF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0805L"
+      ],
+      "pcb_footprint": "C0805L"
+    },
+    {
+      "designator": "C5",
+      "value": "100nF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0402L"
+      ],
+      "pcb_footprint": "C0402L"
+    },
+    {
+      "designator": "C6",
+      "value": "100nF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0402L"
+      ],
+      "pcb_footprint": "C0402L"
+    },
+    {
+      "designator": "C7",
+      "value": "100nF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0402L"
+      ],
+      "pcb_footprint": "C0402L"
+    },
+    {
+      "designator": "C8",
+      "value": "100nF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0402L"
+      ],
+      "pcb_footprint": "C0402L"
+    },
+    {
+      "designator": "C9",
+      "value": "100nF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0402L"
+      ],
+      "pcb_footprint": "C0402L"
+    },
+    {
+      "designator": "C10",
+      "value": "100nF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0402L"
+      ],
+      "pcb_footprint": "C0402L"
+    },
+    {
+      "designator": "C11",
+      "value": "100nF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0402L"
+      ],
+      "pcb_footprint": "C0402L"
+    },
+    {
+      "designator": "C12",
+      "value": "100nF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0402L"
+      ],
+      "pcb_footprint": "C0402L"
+    },
+    {
+      "designator": "C13",
+      "value": "100nF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0402L"
+      ],
+      "pcb_footprint": "C0402L"
+    },
+    {
+      "designator": "C14",
+      "value": "100nF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0402L"
+      ],
+      "pcb_footprint": "C0402L"
+    },
+    {
+      "designator": "C15",
+      "value": "100nF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0402L"
+      ],
+      "pcb_footprint": "C0402L"
+    },
+    {
+      "designator": "C16",
+      "value": "100nF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0402L"
+      ],
+      "pcb_footprint": "C0402L"
+    },
+    {
+      "designator": "C21",
+      "value": "4.7uF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0805L"
+      ],
+      "pcb_footprint": "C0805L"
+    },
+    {
+      "designator": "C22",
+      "value": "10uF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0805L"
+      ],
+      "pcb_footprint": "C0805L"
+    },
+    {
+      "designator": "C23",
+      "value": "100nF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0805L"
+      ],
+      "pcb_footprint": "C0805L"
+    },
+    {
+      "designator": "C24",
+      "value": "1uF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0805L"
+      ],
+      "pcb_footprint": "C0805L"
+    },
+    {
+      "designator": "C25",
+      "value": "1uF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0805L"
+      ],
+      "pcb_footprint": "C0805L"
+    },
+    {
+      "designator": "C26",
+      "value": "10uF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0805L"
+      ],
+      "pcb_footprint": "C0805L"
+    },
+    {
+      "designator": "C27",
+      "value": "10uF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0805L"
+      ],
+      "pcb_footprint": "C0805L"
+    },
+    {
+      "designator": "C28",
+      "value": "1uF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0805L"
+      ],
+      "pcb_footprint": "C0805L"
+    },
+    {
+      "designator": "C29",
+      "value": "10uF",
+      "symbol": "C0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0402",
+      "mpn": "",
+      "schematic_footprints": [
+        "C0805L"
+      ],
+      "pcb_footprint": "C0805L"
+    },
+    {
+      "designator": "H1",
+      "value": "HEADER_22P",
+      "symbol": "HEADER_22P",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "header_22p"
+      ],
+      "pcb_footprint": "header_22p"
+    },
+    {
+      "designator": "H2",
+      "value": "HEADER_22P",
+      "symbol": "HEADER_22P",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "header_22p"
+      ],
+      "pcb_footprint": "header_22p"
+    },
+    {
+      "designator": "H3",
+      "value": "Header_13p",
+      "symbol": "Header_13p",
+      "source_library": "BOARD_ADS _V2.0 (1).SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "HEADER_13P"
+      ],
+      "pcb_footprint": "HEADER_13P"
+    },
+    {
+      "designator": "H4",
+      "value": "MODULE ADS",
+      "symbol": "MODULE_ADS",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "MODULE ADS1299"
+      ],
+      "pcb_footprint": "MODULE ADS1299"
+    },
+    {
+      "designator": "H5",
+      "value": "Header_13p",
+      "symbol": "Header_13p",
+      "source_library": "BOARD_ADS _V2.0 (1).SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "HEADER_13P"
+      ],
+      "pcb_footprint": "HEADER_13P"
+    },
+    {
+      "designator": "H6",
+      "value": "Header 2P 2.54 Duc Thang",
+      "symbol": "Header 2P 2.54 Duc Thang",
+      "source_library": "Header.SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "XH2.54M-2"
+      ],
+      "pcb_footprint": "XH2.54M-2"
+    },
+    {
+      "designator": "H7",
+      "value": "Header 2P 2.54 Duc Thang",
+      "symbol": "Header 2P 2.54 Duc Thang",
+      "source_library": "Header.SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "XH2.54M-2"
+      ],
+      "pcb_footprint": "XH2.54M-2"
+    },
+    {
+      "designator": "H8",
+      "value": "Header 2P 2.54 Duc Thang",
+      "symbol": "Header 2P 2.54 Duc Thang",
+      "source_library": "Header.SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "XH2.54M-2"
+      ],
+      "pcb_footprint": "XH2.54M-2"
+    },
+    {
+      "designator": "H9",
+      "value": "Header 2P 2.54 Duc Thang",
+      "symbol": "Header 2P 2.54 Duc Thang",
+      "source_library": "Header.SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "XH2.54M-2"
+      ],
+      "pcb_footprint": "XH2.54M-2"
+    },
+    {
+      "designator": "H10",
+      "value": "Header 2P 2.54 Duc Thang",
+      "symbol": "Header 2P 2.54 Duc Thang",
+      "source_library": "Header.SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "XH2.54M-2"
+      ],
+      "pcb_footprint": "XH2.54M-2"
+    },
+    {
+      "designator": "H11",
+      "value": "Header 2P 2.54 Duc Thang",
+      "symbol": "Header 2P 2.54 Duc Thang",
+      "source_library": "Header.SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "XH2.54M-2"
+      ],
+      "pcb_footprint": "XH2.54M-2"
+    },
+    {
+      "designator": "H12",
+      "value": "Header 2P 2.54 Duc Thang",
+      "symbol": "Header 2P 2.54 Duc Thang",
+      "source_library": "Header.SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "XH2.54M-2"
+      ],
+      "pcb_footprint": "XH2.54M-2"
+    },
+    {
+      "designator": "R1",
+      "value": "0R",
+      "symbol": "R0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0805",
+      "mpn": "",
+      "schematic_footprints": [
+        "R0805"
+      ],
+      "pcb_footprint": "R0805"
+    },
+    {
+      "designator": "R2",
+      "value": "0R",
+      "symbol": "R0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0805",
+      "mpn": "",
+      "schematic_footprints": [
+        "R0805"
+      ],
+      "pcb_footprint": "R0805"
+    },
+    {
+      "designator": "R3",
+      "value": "0R",
+      "symbol": "R0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0805",
+      "mpn": "",
+      "schematic_footprints": [
+        "R0805"
+      ],
+      "pcb_footprint": "R0805"
+    },
+    {
+      "designator": "R4",
+      "value": "0R",
+      "symbol": "R0805",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "0805",
+      "mpn": "",
+      "schematic_footprints": [
+        "R0805"
+      ],
+      "pcb_footprint": "R0805"
+    },
+    {
+      "designator": "TP1",
+      "value": "TP_?",
+      "symbol": "TEST_POINT",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "TP_SMD_1P50"
+      ],
+      "pcb_footprint": "TP_SMD_1P50"
+    },
+    {
+      "designator": "TP2",
+      "value": "TP_?",
+      "symbol": "TEST_POINT",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "TP_SMD_1P50"
+      ],
+      "pcb_footprint": "TP_SMD_1P50"
+    },
+    {
+      "designator": "TP3",
+      "value": "TP_?",
+      "symbol": "TEST_POINT",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "TP_SMD_1P50"
+      ],
+      "pcb_footprint": "TP_SMD_1P50"
+    },
+    {
+      "designator": "TP4",
+      "value": "TP_?",
+      "symbol": "TEST_POINT",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "TP_SMD_1P50"
+      ],
+      "pcb_footprint": "TP_SMD_1P50"
+    },
+    {
+      "designator": "TP5",
+      "value": "TP_?",
+      "symbol": "TEST_POINT",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "",
+      "mpn": "",
+      "schematic_footprints": [
+        "TP_SMD_1P50"
+      ],
+      "pcb_footprint": "TP_SMD_1P50"
+    },
+    {
+      "designator": "U1",
+      "value": "LP5907MFX-2.5/NOPB",
+      "symbol": "LP5907MFX-2.5NOPB",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "",
+      "mpn": "LP5907MFX-2.5/NOPB",
+      "schematic_footprints": [
+        "DBV0005A_M"
+      ],
+      "pcb_footprint": "DBV0005A_M"
+    },
+    {
+      "designator": "U2",
+      "value": "TPS72325DBVR",
+      "symbol": "TPS72325DBVR",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "SOT-23-5 Texas Instruments",
+      "mpn": "TPS72325DBVR",
+      "schematic_footprints": [
+        "SOT95P280X145-5N"
+      ],
+      "pcb_footprint": "SOT95P280X145-5N"
+    },
+    {
+      "designator": "U3",
+      "value": "TPS60403DBVR",
+      "symbol": "TPS60403DBVR",
+      "source_library": "BOARD_ADS.SchLib",
+      "case": "SOT-23-5 Texas Instruments",
+      "mpn": "TPS60403DBVR",
+      "schematic_footprints": [
+        "SOT95P280X145-5N"
+      ],
+      "pcb_footprint": "SOT95P280X145-5N"
+    }
+  ],
+  "header_and_testpoint_pads": [
+    {
+      "designator": "H1",
+      "pin": "1",
+      "net": "3V3"
+    },
+    {
+      "designator": "H1",
+      "pin": "2",
+      "net": "3V3"
+    },
+    {
+      "designator": "H1",
+      "pin": "3",
+      "net": ""
+    },
+    {
+      "designator": "H1",
+      "pin": "4",
+      "net": "DRDY"
+    },
+    {
+      "designator": "H1",
+      "pin": "5",
+      "net": "START"
+    },
+    {
+      "designator": "H1",
+      "pin": "6",
+      "net": "RESET"
+    },
+    {
+      "designator": "H1",
+      "pin": "7",
+      "net": "PWDN"
+    },
+    {
+      "designator": "H1",
+      "pin": "8",
+      "net": ""
+    },
+    {
+      "designator": "H1",
+      "pin": "9",
+      "net": ""
+    },
+    {
+      "designator": "H1",
+      "pin": "10",
+      "net": ""
+    },
+    {
+      "designator": "H1",
+      "pin": "11",
+      "net": ""
+    },
+    {
+      "designator": "H1",
+      "pin": "12",
+      "net": ""
+    },
+    {
+      "designator": "H1",
+      "pin": "13",
+      "net": ""
+    },
+    {
+      "designator": "H1",
+      "pin": "14",
+      "net": ""
+    },
+    {
+      "designator": "H1",
+      "pin": "15",
+      "net": ""
+    },
+    {
+      "designator": "H1",
+      "pin": "16",
+      "net": "CS"
+    },
+    {
+      "designator": "H1",
+      "pin": "17",
+      "net": "MOSI"
+    },
+    {
+      "designator": "H1",
+      "pin": "18",
+      "net": "SCLK"
+    },
+    {
+      "designator": "H1",
+      "pin": "19",
+      "net": "MISO"
+    },
+    {
+      "designator": "H1",
+      "pin": "20",
+      "net": ""
+    },
+    {
+      "designator": "H1",
+      "pin": "21",
+      "net": "5V"
+    },
+    {
+      "designator": "H1",
+      "pin": "22",
+      "net": "GND"
+    },
+    {
+      "designator": "H2",
+      "pin": "1",
+      "net": "GND"
+    },
+    {
+      "designator": "H2",
+      "pin": "2",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "3",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "4",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "5",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "6",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "7",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "8",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "9",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "10",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "11",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "12",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "13",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "14",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "15",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "16",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "17",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "18",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "19",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "20",
+      "net": ""
+    },
+    {
+      "designator": "H2",
+      "pin": "21",
+      "net": "GND"
+    },
+    {
+      "designator": "H2",
+      "pin": "22",
+      "net": "GND"
+    },
+    {
+      "designator": "H3",
+      "pin": "1",
+      "net": "PWDN"
+    },
+    {
+      "designator": "H3",
+      "pin": "2",
+      "net": "RESET"
+    },
+    {
+      "designator": "H3",
+      "pin": "3",
+      "net": "START"
+    },
+    {
+      "designator": "H3",
+      "pin": "4",
+      "net": "DRDY"
+    },
+    {
+      "designator": "H3",
+      "pin": "5",
+      "net": "CS"
+    },
+    {
+      "designator": "H3",
+      "pin": "6",
+      "net": "MISO"
+    },
+    {
+      "designator": "H3",
+      "pin": "7",
+      "net": "MOSI"
+    },
+    {
+      "designator": "H3",
+      "pin": "8",
+      "net": "SCLK"
+    },
+    {
+      "designator": "H3",
+      "pin": "9",
+      "net": "GND"
+    },
+    {
+      "designator": "H3",
+      "pin": "10",
+      "net": ""
+    },
+    {
+      "designator": "H3",
+      "pin": "11",
+      "net": ""
+    },
+    {
+      "designator": "H3",
+      "pin": "12",
+      "net": ""
+    },
+    {
+      "designator": "H3",
+      "pin": "13",
+      "net": "GND"
+    },
+    {
+      "designator": "H4",
+      "pin": "1",
+      "net": "3V3"
+    },
+    {
+      "designator": "H4",
+      "pin": "2",
+      "net": "GND"
+    },
+    {
+      "designator": "H4",
+      "pin": "3",
+      "net": ""
+    },
+    {
+      "designator": "H4",
+      "pin": "4",
+      "net": "DRDY"
+    },
+    {
+      "designator": "H4",
+      "pin": "5",
+      "net": "MISO"
+    },
+    {
+      "designator": "H4",
+      "pin": "6",
+      "net": ""
+    },
+    {
+      "designator": "H4",
+      "pin": "7",
+      "net": "SCLK"
+    },
+    {
+      "designator": "H4",
+      "pin": "8",
+      "net": "START"
+    },
+    {
+      "designator": "H4",
+      "pin": "9",
+      "net": "RESET"
+    },
+    {
+      "designator": "H4",
+      "pin": "10",
+      "net": "PWDN"
+    },
+    {
+      "designator": "H4",
+      "pin": "11",
+      "net": "MOSI"
+    },
+    {
+      "designator": "H4",
+      "pin": "12",
+      "net": ""
+    },
+    {
+      "designator": "H4",
+      "pin": "13",
+      "net": "CS"
+    },
+    {
+      "designator": "H5",
+      "pin": "1",
+      "net": "VBAT"
+    },
+    {
+      "designator": "H5",
+      "pin": "2",
+      "net": ""
+    },
+    {
+      "designator": "H5",
+      "pin": "3",
+      "net": "GND"
+    },
+    {
+      "designator": "H5",
+      "pin": "4",
+      "net": ""
+    },
+    {
+      "designator": "H5",
+      "pin": "5",
+      "net": "3V3"
+    },
+    {
+      "designator": "H5",
+      "pin": "6",
+      "net": ""
+    },
+    {
+      "designator": "H5",
+      "pin": "7",
+      "net": ""
+    },
+    {
+      "designator": "H5",
+      "pin": "8",
+      "net": ""
+    },
+    {
+      "designator": "H5",
+      "pin": "9",
+      "net": ""
+    },
+    {
+      "designator": "H5",
+      "pin": "10",
+      "net": ""
+    },
+    {
+      "designator": "H5",
+      "pin": "11",
+      "net": ""
+    },
+    {
+      "designator": "H5",
+      "pin": "12",
+      "net": ""
+    },
+    {
+      "designator": "H5",
+      "pin": "13",
+      "net": ""
+    },
+    {
+      "designator": "H6",
+      "pin": "1",
+      "net": "GND"
+    },
+    {
+      "designator": "H6",
+      "pin": "2",
+      "net": "VBAT"
+    },
+    {
+      "designator": "H7",
+      "pin": "1",
+      "net": "2V5"
+    },
+    {
+      "designator": "H7",
+      "pin": "2",
+      "net": "-2V5"
+    },
+    {
+      "designator": "H8",
+      "pin": "1",
+      "net": "2V5"
+    },
+    {
+      "designator": "H8",
+      "pin": "2",
+      "net": "-2V5"
+    },
+    {
+      "designator": "H9",
+      "pin": "1",
+      "net": "2V5"
+    },
+    {
+      "designator": "H9",
+      "pin": "2",
+      "net": "-2V5"
+    },
+    {
+      "designator": "H10",
+      "pin": "1",
+      "net": "2V5"
+    },
+    {
+      "designator": "H10",
+      "pin": "2",
+      "net": "-2V5"
+    },
+    {
+      "designator": "H11",
+      "pin": "1",
+      "net": "2V5"
+    },
+    {
+      "designator": "H11",
+      "pin": "2",
+      "net": "-2V5"
+    },
+    {
+      "designator": "H12",
+      "pin": "1",
+      "net": "2V5"
+    },
+    {
+      "designator": "H12",
+      "pin": "2",
+      "net": "-2V5"
+    },
+    {
+      "designator": "TP1",
+      "pin": "1",
+      "net": "VBAT"
+    },
+    {
+      "designator": "TP2",
+      "pin": "1",
+      "net": "-2V5"
+    },
+    {
+      "designator": "TP3",
+      "pin": "1",
+      "net": "2V5"
+    },
+    {
+      "designator": "TP4",
+      "pin": "1",
+      "net": "VBAT_NEG"
+    },
+    {
+      "designator": "TP5",
+      "pin": "1",
+      "net": "GND"
+    }
+  ],
+  "pcb_models": [
+    {
+      "NAME": "XH2.54M-2.STEP",
+      "EMBED": "TRUE",
+      "MODELSOURCE": "Undefined",
+      "ID": "{4071E34B-672C-48EC-874C-EAD9AA0A56B0}"
+    },
+    {
+      "NAME": "LK-M1299-V1.3_3D??.step",
+      "EMBED": "TRUE",
+      "MODELSOURCE": "Undefined",
+      "ID": "{FDC7A231-63BA-4B05-8901-D2A65D8D14D2}"
+    },
+    {
+      "NAME": "XH2.54M-2.STEP",
+      "EMBED": "TRUE",
+      "MODELSOURCE": "Undefined",
+      "ID": "{4071E34B-672C-48EC-874C-EAD9AA0A56B0}"
+    },
+    {
+      "NAME": "PCB_PWR_BANK_V3.0_014-007930B.step",
+      "EMBED": "TRUE",
+      "MODELSOURCE": "Undefined",
+      "ID": "{77210627-895B-40C5-963A-2FE398015207}"
+    },
+    {
+      "NAME": "DBV0005A.stp",
+      "EMBED": "TRUE",
+      "MODELSOURCE": "Undefined",
+      "ID": "{C25BB9A1-621C-4D7F-960D-ED5B4CAF9BF0}"
+    },
+    {
+      "NAME": "User Library-Capacitor 0402.step",
+      "EMBED": "TRUE",
+      "MODELSOURCE": "Undefined",
+      "ID": "{F87ED1B1-24DC-4DAE-A9BD-30A3F358B9B8}"
+    },
+    {
+      "NAME": "User Library-Capacitor 0402.step",
+      "EMBED": "TRUE",
+      "MODELSOURCE": "Undefined",
+      "ID": "{F87ED1B1-24DC-4DAE-A9BD-30A3F358B9B8}"
+    },
+    {
+      "NAME": "step_temp.STEP",
+      "EMBED": "TRUE",
+      "MODELSOURCE": "Undefined",
+      "ID": "{536FCCD7-CA96-46D2-9D45-43466EE7020F}"
+    },
+    {
+      "NAME": "step_temp.STEP",
+      "EMBED": "TRUE",
+      "MODELSOURCE": "Undefined",
+      "ID": "{C2818246-5E68-41EB-89EF-B58B4BFA93EA}"
+    },
+    {
+      "NAME": "step_temp.STEP",
+      "EMBED": "TRUE",
+      "MODELSOURCE": "Undefined",
+      "ID": "{536FCCD7-CA96-46D2-9D45-43466EE7020F}"
+    },
+    {
+      "NAME": "step_temp.STEP",
+      "EMBED": "TRUE",
+      "MODELSOURCE": "Undefined",
+      "ID": "{536FCCD7-CA96-46D2-9D45-43466EE7020F}"
+    },
+    {
+      "NAME": "step_temp.STEP",
+      "EMBED": "TRUE",
+      "MODELSOURCE": "Undefined",
+      "ID": "{C2818246-5E68-41EB-89EF-B58B4BFA93EA}"
+    }
+  ]
+}

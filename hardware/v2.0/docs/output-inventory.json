@@ -1,0 +1,229 @@
+{
+  "archive": "hardware/v2.0/manufacturing/archive-2026-10-22/BOARD_ADS_V2.0_GERBER_2026-10-22_UNVERIFIED.zip",
+  "status": "historical/unverified",
+  "zip_integrity": "passed CRC test",
+  "cam_review": "not performed",
+  "entries": [
+    {
+      "name": "BOARD_ADS _V2.0 (3).GBO",
+      "bytes": 147819,
+      "crc32": "54f0704c",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        36
+      ]
+    },
+    {
+      "name": "BOARD_ADS _V2.0 (3).GBP",
+      "bytes": 319,
+      "crc32": "14589964",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        36
+      ]
+    },
+    {
+      "name": "BOARD_ADS _V2.0 (3).GBS",
+      "bytes": 2691,
+      "crc32": "9a843974",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        36
+      ]
+    },
+    {
+      "name": "BOARD_ADS _V2.0 (3).GM",
+      "bytes": 393,
+      "crc32": "9aeef943",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        36
+      ]
+    },
+    {
+      "name": "BOARD_ADS _V2.0 (3).GTL",
+      "bytes": 69076,
+      "crc32": "9496e866",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        36
+      ]
+    },
+    {
+      "name": "BOARD_ADS _V2.0 (3).GTO",
+      "bytes": 243506,
+      "crc32": "f71ffc51",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        36
+      ]
+    },
+    {
+      "name": "BOARD_ADS _V2.0 (3).GTP",
+      "bytes": 4360,
+      "crc32": "f31b818b",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        36
+      ]
+    },
+    {
+      "name": "BOARD_ADS _V2.0 (3).GTS",
+      "bytes": 6777,
+      "crc32": "1476a8f7",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        36
+      ]
+    },
+    {
+      "name": "BOARD_ADS _V2.0 (3).LDP",
+      "bytes": 212,
+      "crc32": "7f6710a2",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        52
+      ]
+    },
+    {
+      "name": "BOARD_ADS _V2.0 (3).REP",
+      "bytes": 3312,
+      "crc32": "b256c294",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        36
+      ]
+    },
+    {
+      "name": "BOARD_ADS _V2.0 (3)-macro.APR_LIB",
+      "bytes": 2991,
+      "crc32": "2104bd6a",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        36
+      ]
+    },
+    {
+      "name": "BOARD_ADS _V2.0 (3)-Plated.TXT",
+      "bytes": 2393,
+      "crc32": "65769961",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        52
+      ]
+    },
+    {
+      "name": "Status Report.Txt",
+      "bytes": 335,
+      "crc32": "032baede",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        52
+      ]
+    },
+    {
+      "name": "BOARD_ADS _V2.0 (3).apr",
+      "bytes": 1650,
+      "crc32": "c8099eb8",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        36
+      ]
+    },
+    {
+      "name": "BOARD_ADS _V2.0 (3).DRR",
+      "bytes": 1601,
+      "crc32": "deba26c5",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        52
+      ]
+    },
+    {
+      "name": "BOARD_ADS _V2.0 (3).EXTREP",
+      "bytes": 1167,
+      "crc32": "e09e42c5",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        36
+      ]
+    },
+    {
+      "name": "BOARD_ADS _V2.0 (3).GBL",
+      "bytes": 52619,
+      "crc32": "55922f7c",
+      "zip_timestamp": [
+        2026,
+        10,
+        22,
+        16,
+        1,
+        36
+      ]
+    }
+  ]
+}
