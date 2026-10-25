@@ -1,5 +1,12 @@
 # Lịch sử thay đổi
 
+## Tài liệu trực quan V2.0 — 25/10/2026
+
+- Thêm hai ảnh 3D chụp từ PCB V2 hiện tại trong Altium, kèm thông tin nguồn và SHA-256.
+- Viết lại README theo mục đích dự án EEG, luồng tín hiệu, khối nguồn và vai trò module/linh kiện.
+- Thêm BOARD_OVERVIEW với mô tả U1–U3, các tụ, điện trở 0 Ω, H1–H12 và TP1–TP5; bổ sung nguồn datasheet hãng.
+- Giữ nguyên source Altium, BOM và các đầu ra chế tạo; không tuyên bố đã có firmware, số đo EEG hoặc DRC mới.
+
 ## Hardware V2.0 — 25/10/2026
 
 - Thêm snapshot nguồn V2 tại `hardware/v2.0/`, giữ nguyên nguồn V1 và lịch sử Git.
