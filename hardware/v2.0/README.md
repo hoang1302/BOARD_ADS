@@ -4,6 +4,10 @@ Board kết nối module ADS1299 với ESP32 hoặc nRF52840, kèm khối nguồ
 
 **Trạng thái: bản nguồn V2 đã được người thiết kế hoàn thiện; gói GitHub ngày 25/10/2026. Chưa có bằng chứng kiểm thử phần cứng hoặc bộ Gerber được xác nhận khớp revision nguồn này trong lần đóng gói.**
 
+## Giới thiệu và hình ảnh
+
+Xem [các khối linh kiện và cách hoạt động](docs/BOARD_OVERVIEW.md), hoặc [ảnh 3D bản hiện tại](docs/images/current-2026-10-25/README.md).
+
 ## Mở project
 
 Mở [BOARD_ADS _V2.0 (1).PrjPcb](altium/BOARD_ADS%20_V2.0%20(1).PrjPcb). PCB chính là [BOARD_ADS _V2.0 (3).PcbDoc](altium/BOARD_ADS%20_V2.0%20(3).PcbDoc). Giữ nguyên cấu trúc thư mục `altium/`, gồm hai thư viện Header trong `altium/libraries/`.

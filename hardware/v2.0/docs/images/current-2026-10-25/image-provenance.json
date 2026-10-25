@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-25",
+  "source_document": "BOARD_ADS _V2.0 (3).PcbDoc",
+  "source_document_sha256": "d9f0e65410cf28c3d790a0fb8b2e33ad6a8dcac1b0a53d2bd9bd40f112a2892b",
+  "capture": "Native Altium 3D viewport, captured with Computer Use; cropped to board area",
+  "altium_version": "26.10.1.5",
+  "source_modified_in_memory": false,
+  "design_changed": false,
+  "images": [
+    {
+      "file": "board-3d-modules.png",
+      "sha256": "c6216a0547eca65261ce4853517c068655ad4e16cfb018991c361c40c54ee7d8",
+      "bytes": 567739
+    },
+    {
+      "file": "board-3d-top.png",
+      "sha256": "b986ea08221b8d6abc5154736d6ab9408bcf0c57f7563c0ae4a78c79342ed039",
+      "bytes": 425152
+    },
+    {
+      "file": "power-block.png",
+      "sha256": "85c72465b91f168b18e45e010dce24d04709871e3a34bdc9b746f778d9fb157d",
+      "bytes": 251637
+    }
+  ]
+}
