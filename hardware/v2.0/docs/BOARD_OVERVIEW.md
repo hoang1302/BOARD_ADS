@@ -10,9 +10,11 @@ Carrier là board nền để kết nối các module có sẵn và phân phối
 
 Mục tiêu tiếp theo là tích hợp cụm phần cứng vào băng đô đeo đầu và phát triển phần mềm nhận dữ liệu. Các đường truyền, tốc độ lấy mẫu, số kênh hoạt động và chất lượng tín hiệu sẽ được mô tả bằng cấu hình firmware và kết quả đo khi có.
 
-![PCB V2 — Bottom Layer, ảnh tác giả cung cấp ngày 26/10](images/user-2026-10-26/2d_bottomlayer.png)
+| Top — cấu hình nRF52840 | Top — cấu hình ESP32 |
+| --- | --- |
+| ![Board V2 lắp module nRF52840 và ADS1299](images/user-2026-10-26/3D/top_nRF52840.png) | ![Board V2 lắp kit ESP32 và module ADS1299](images/user-2026-10-26/3D/top_esp32.png) |
 
-*Bottom Layer của PCB V2, ảnh layout do tác giả cung cấp ngày 26/10/2026. Tên H, U, C, R và TP trong các bảng bên dưới là designator để đối chiếu với schematic/PCB; đây không phải ảnh board đã lắp ráp.*
+*Hai ảnh mô tả hai cấu hình thay thế nhau: chỉ cắm nRF52840 hoặc ESP32 tại một thời điểm. Đây là ảnh dựng 3D do tác giả chuẩn bị, không phải ảnh board đã lắp ráp.*
 
 ## 🧩 Các module cắm thêm
 
@@ -27,7 +29,7 @@ Mục tiêu tiếp theo là tích hợp cụm phần cứng vào băng đô đeo
 
 ## ⚡ Ba IC nguồn trên carrier
 
-![PCB V2 — Top Layer, gồm vùng khối nguồn](images/user-2026-10-26/2d_toplayer.png)
+![Mặt dưới board V2: cụm nguồn và mô hình boost](images/user-2026-10-26/3D/Bottom.png)
 
 | IC | Loại mạch | Vai trò theo kết nối schematic |
 | --- | --- | --- |
@@ -80,7 +82,7 @@ Các net giao tiếp chính là SCLK, MOSI, MISO, CS và DRDY; START, RESET, PWD
 - Muốn chế tạo: xem [trạng thái kiểm tra](VALIDATION.md) và [ghi chú Gerber](../manufacturing/README.md).
 - Muốn biết ảnh được tạo từ bản nào: xem [bộ ảnh do tác giả cung cấp](images/user-2026-10-26/README.md).
 
-Ảnh layout trong tài liệu do tác giả cung cấp ngày 26/10/2026; dữ liệu linh kiện/pinout lấy từ bộ nguồn V2 đã đóng gói ngày 25/10. Chưa có số đo phần cứng hoặc kết quả EEG được công bố ở phiên bản tài liệu này.
+Bộ ảnh 3D trong tài liệu do tác giả cung cấp từ IMAGE/3D ngày 26/10/2026; dữ liệu linh kiện/pinout lấy từ bộ nguồn V2 đã đóng gói ngày 25/10. Chưa có số đo phần cứng hoặc kết quả EEG được công bố ở phiên bản tài liệu này.
 
 [^adc]: Texas Instruments, [ADS1299-x datasheet](https://www.ti.com/lit/ds/symlink/ads1299.pdf), tr. 1, mục 6 và 9: ADC cho EEG/biopotential, chân giao tiếp và hoạt động số. Thông số của IC không thay thế sơ đồ module.
 [^esp]: Espressif, [ESP32-S3 overview](https://www.espressif.com/en/products/socs/esp32-s3): Wi-Fi và Bluetooth LE của SoC.

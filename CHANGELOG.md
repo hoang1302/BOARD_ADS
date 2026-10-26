@@ -1,5 +1,11 @@
 # Lịch sử thay đổi
 
+## Bộ ảnh 3D hai cấu hình — 26/10/2026
+
+- Bổ sung đúng ba ảnh từ IMAGE/3D: top_nRF52840.png, top_esp32.png và Bottom.png.
+- Đặt hai cấu hình nRF52840/ESP32 cạnh nhau trong README; bổ sung ảnh mặt dưới tại phần nguồn.
+- Sửa gallery, chú thích và nguồn ảnh; giữ ảnh 2D làm tham khảo và không thay đổi thiết kế Altium.
+
 ## Ảnh do tác giả cung cấp — 26/10/2026
 
 - Tải nguyên bản Top Layer, Bottom Layer và Schematic từ thư mục IMAGE của project V2.
