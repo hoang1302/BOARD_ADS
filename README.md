@@ -4,9 +4,13 @@ _Board kết nối và cấp nguồn cho hệ thu nhận tín hiệu EEG — thi
 
 Tôi phát triển board này để ghép **module ADS1299**, **ESP32 hoặc nRF52840** và khối nguồn điện cực thành một cụm phần cứng phục vụ nghiên cứu EEG, hướng tới lắp trên băng đô đeo đầu. Board carrier tập trung các kết nối và đường nguồn; module ADS1299 đảm nhiệm số hóa tín hiệu, còn bộ xử lý được chọn sẽ điều khiển và đọc dữ liệu qua SPI.[^ads1299]
 
-![Mặt module của board ADS1299 EEG Carrier V2.0, dựng trực tiếp trong Altium ngày 25/10/2026](hardware/v2.0/docs/images/current-2026-10-25/board-3d-modules.png)
+![PCB V2 — Top Layer, ảnh tác giả cung cấp ngày 26/10/2026](hardware/v2.0/docs/images/user-2026-10-26/2d_toplayer.png)
 
-*Ảnh dựng 3D từ PCB V2 hiện tại: module ADS1299 màu xanh, giắc pin ở giữa và nhóm giắc nguồn điện cực phía trên bên phải. Vị trí ESP32/nRF52840 đang để trống để nhìn rõ hai bộ header. Đây là hình CAD, chưa phải ảnh board đã lắp ráp.*
+*Top Layer — ảnh layout PCB do tác giả chuẩn bị trong thư mục IMAGE.*
+
+![PCB V2 — Bottom Layer, ảnh tác giả cung cấp ngày 26/10/2026](hardware/v2.0/docs/images/user-2026-10-26/2d_bottomlayer.png)
+
+*Bottom Layer — ảnh layout PCB do tác giả chuẩn bị ngày 26/10/2026. [Xem bộ ảnh và schematic tham khảo](hardware/v2.0/docs/images/user-2026-10-26/README.md).*
 
 ## 🎯 Dự án này giải quyết việc gì?
 
@@ -61,10 +65,6 @@ flowchart LR
     boost_module -.->|"5 V · dự kiến đấu ngoài"| esp_power["ESP32"]
 ```
 
-![Mặt khối nguồn và mô hình boost của PCB V2](hardware/v2.0/docs/images/current-2026-10-25/power-block.png)
-
-*Mặt khối nguồn: U1 ở phía trên, U3 ở giữa, U2 ở phía dưới cụm linh kiện; mô hình boost màu xanh nằm ở góc dưới bên trái. Các mức +2,5 V/−2,5 V là mục tiêu thiết kế, chưa phải số đo thực nghiệm.*
-
 ## 📚 Bắt đầu xem thiết kế
 
 | Bạn muốn tìm hiểu | Tài liệu |
@@ -79,7 +79,7 @@ flowchart LR
 
 ## 🧪 Trạng thái phát triển
 
-Nguồn V2 đã được đưa lên repository; ảnh ở README được chụp từ đúng PCB đang mở trong Altium ngày **25/10/2026**. Chưa công bố kết quả lắp ráp, đo nguồn, giao tiếp hoặc thu tín hiệu EEG thực tế. Khả năng của IC/module trong datasheet không phải là kết quả đo của toàn hệ thống.
+Nguồn V2 đã được đưa lên repository; hai ảnh layout trong README được tác giả cung cấp từ thư mục IMAGE ngày **26/10/2026**. Bộ nguồn Altium trong repository vẫn là snapshot đã đóng gói ngày 25/10; lần cập nhật này bổ sung ảnh và tài liệu. Chưa công bố kết quả lắp ráp, đo nguồn, giao tiếp hoặc thu tín hiệu EEG thực tế. Khả năng của IC/module trong datasheet không phải là kết quả đo của toàn hệ thống.
 
 Gerber hiện có từ 22/10, trước lần lưu PCB ngày 25/10; cần xuất lại hoặc đối chiếu trước khi dùng đặt mạch. [Chi tiết các mục cần chốt](hardware/v2.0/docs/VALIDATION.md).
 

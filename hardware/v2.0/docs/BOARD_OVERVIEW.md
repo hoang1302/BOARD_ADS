@@ -1,6 +1,6 @@
 # Tìm hiểu board ADS1299 EEG Carrier V2.0
 
-_Giới thiệu cấu trúc phần cứng, vai trò linh kiện và cách đọc bản thiết kế — 25/10/2026._
+_Giới thiệu cấu trúc phần cứng, vai trò linh kiện và cách đọc bản thiết kế — cập nhật ảnh 26/10/2026._
 
 ---
 
@@ -10,9 +10,9 @@ Carrier là board nền để kết nối các module có sẵn và phân phối
 
 Mục tiêu tiếp theo là tích hợp cụm phần cứng vào băng đô đeo đầu và phát triển phần mềm nhận dữ liệu. Các đường truyền, tốc độ lấy mẫu, số kênh hoạt động và chất lượng tín hiệu sẽ được mô tả bằng cấu hình firmware và kết quả đo khi có.
 
-![Mặt module ADS1299, pin và giắc điện cực](images/current-2026-10-25/board-3d-modules.png)
+![PCB V2 — Bottom Layer, ảnh tác giả cung cấp ngày 26/10](images/user-2026-10-26/2d_bottomlayer.png)
 
-*CAD hiện tại: vùng ESP32/nRF ở trái, module ADS1299 màu xanh ở phải, H6 ở giữa phía trên module và các giắc H7–H12 ở góc trên bên phải. Vị trí trên ảnh tuân theo góc nhìn mặt này; ảnh mặt nguồn nhìn từ phía đối diện nên bố trí trái/phải đổi chiều.*
+*Bottom Layer của PCB V2, ảnh layout do tác giả cung cấp ngày 26/10/2026. Tên H, U, C, R và TP trong các bảng bên dưới là designator để đối chiếu với schematic/PCB; đây không phải ảnh board đã lắp ráp.*
 
 ## 🧩 Các module cắm thêm
 
@@ -27,7 +27,7 @@ Mục tiêu tiếp theo là tích hợp cụm phần cứng vào băng đô đeo
 
 ## ⚡ Ba IC nguồn trên carrier
 
-![Khối nguồn và mô hình boost](images/current-2026-10-25/power-block.png)
+![PCB V2 — Top Layer, gồm vùng khối nguồn](images/user-2026-10-26/2d_toplayer.png)
 
 | IC | Loại mạch | Vai trò theo kết nối schematic |
 | --- | --- | --- |
@@ -78,9 +78,9 @@ Các net giao tiếp chính là SCLK, MOSI, MISO, CS và DRDY; START, RESET, PWD
 - Muốn mua linh kiện: xem [BOM](BOM.md) và đối chiếu các trường còn thiếu.
 - Muốn đấu nối: xem [pinout](PINOUT.md), rồi kiểm tra model module thực tế.
 - Muốn chế tạo: xem [trạng thái kiểm tra](VALIDATION.md) và [ghi chú Gerber](../manufacturing/README.md).
-- Muốn biết ảnh được tạo từ bản nào: xem [nguồn ảnh](images/current-2026-10-25/README.md).
+- Muốn biết ảnh được tạo từ bản nào: xem [bộ ảnh do tác giả cung cấp](images/user-2026-10-26/README.md).
 
-Ảnh trong tài liệu là hình CAD ngày 25/10/2026. Chưa có số đo phần cứng hoặc kết quả EEG được công bố ở phiên bản tài liệu này.
+Ảnh layout trong tài liệu do tác giả cung cấp ngày 26/10/2026; dữ liệu linh kiện/pinout lấy từ bộ nguồn V2 đã đóng gói ngày 25/10. Chưa có số đo phần cứng hoặc kết quả EEG được công bố ở phiên bản tài liệu này.
 
 [^adc]: Texas Instruments, [ADS1299-x datasheet](https://www.ti.com/lit/ds/symlink/ads1299.pdf), tr. 1, mục 6 và 9: ADC cho EEG/biopotential, chân giao tiếp và hoạt động số. Thông số của IC không thay thế sơ đồ module.
 [^esp]: Espressif, [ESP32-S3 overview](https://www.espressif.com/en/products/socs/esp32-s3): Wi-Fi và Bluetooth LE của SoC.
