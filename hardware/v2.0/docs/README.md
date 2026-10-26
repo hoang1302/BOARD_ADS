@@ -5,11 +5,12 @@ _Bắt đầu với hình ảnh và giới thiệu phần cứng, sau đó xem d
 ## 🧩 Hiểu board trước khi mở Altium
 
 - [Giới thiệu các khối và linh kiện](BOARD_OVERVIEW.md).
-- [Ảnh 3D bản hiện tại ngày 25/10](images/current-2026-10-25/README.md).
+- [Ảnh Top Layer, Bottom Layer và schematic do tác giả cung cấp](images/user-2026-10-26/README.md).
+- [Ảnh 3D tham khảo ngày 25/10](images/current-2026-10-25/README.md).
 - [Pinout từ PCB](PINOUT.md).
 - [BOM tham khảo](BOM.md) · [CSV](BOM.csv).
 
-![Board V2 và module ADS1299](images/current-2026-10-25/board-3d-modules.png)
+![PCB V2 — Top Layer ngày 26/10/2026](images/user-2026-10-26/2d_toplayer.png)
 
 ## 📋 Kiểm tra và truy vết phiên bản
 

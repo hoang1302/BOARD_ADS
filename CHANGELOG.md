@@ -1,5 +1,12 @@
 # Lịch sử thay đổi
 
+## Ảnh do tác giả cung cấp — 26/10/2026
+
+- Tải nguyên bản Top Layer, Bottom Layer và Schematic từ thư mục IMAGE của project V2.
+- Đưa hai ảnh layout ngày 26/10 vào README và trang giới thiệu linh kiện, thay các hình 3D đang làm ảnh chính.
+- Thêm bộ ảnh, chú thích ngày và SHA-256; schematic ngày 19/10 được ghi rõ là tham khảo.
+- Giữ nguyên nguồn Altium, BOM, pinout, Gerber và các ảnh lịch sử.
+
 ## Tài liệu trực quan V2.0 — 25/10/2026
 
 - Thêm hai ảnh 3D chụp từ PCB V2 hiện tại trong Altium, kèm thông tin nguồn và SHA-256.

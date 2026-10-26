@@ -6,7 +6,7 @@ Board kết nối module ADS1299 với ESP32 hoặc nRF52840, kèm khối nguồ
 
 ## Giới thiệu và hình ảnh
 
-Xem [các khối linh kiện và cách hoạt động](docs/BOARD_OVERVIEW.md), hoặc [ảnh 3D bản hiện tại](docs/images/current-2026-10-25/README.md).
+Xem [các khối linh kiện và cách hoạt động](docs/BOARD_OVERVIEW.md), hoặc [bộ ảnh PCB do tác giả cung cấp ngày 26/10](docs/images/user-2026-10-26/README.md).
 
 ## Mở project
 

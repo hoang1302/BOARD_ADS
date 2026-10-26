@@ -1,0 +1,41 @@
+{
+  "upload_date": "2026-10-26",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "source": "Author-prepared IMAGE folder in the V2 project",
+  "images": [
+    {
+      "file": "2d_bottomlayer.png",
+      "sha256": "3235ec6f570db2386d9bd6c02a7e57070ce112f5a941d1db90ad3baed066f642",
+      "bytes": 306058,
+      "size_px": [
+        867,
+        657
+      ],
+      "source_modified": "2026-10-26T09:44:08+07:00",
+      "content": "unchanged; supplied by board author"
+    },
+    {
+      "file": "2d_toplayer.png",
+      "sha256": "8706f8364f657dd2a9dda425028bb417b363d621d08358523f5eebddd0dbd806",
+      "bytes": 335819,
+      "size_px": [
+        872,
+        662
+      ],
+      "source_modified": "2026-10-26T09:43:38+07:00",
+      "content": "unchanged; supplied by board author"
+    },
+    {
+      "file": "Schematic.png",
+      "sha256": "5ad1dfd2229fc3aba7a380ec891b115736af125312199c1d0c0705c67f3f9eb7",
+      "bytes": 130377,
+      "size_px": [
+        1532,
+        746
+      ],
+      "source_modified": "2026-10-19T14:14:07+07:00",
+      "content": "unchanged; supplied by board author"
+    }
+  ],
+  "design_source_changed": false
+}
